@@ -1,0 +1,4 @@
+Revise in PA2:
+Sửa lại lỗi lạm dụng các mối quan hệ extend include, đổi chiểu mũi tên exten bị sai ở bảng đầu 
+tiên, Update revision history
+Thêm lại revision history trong UC specification.

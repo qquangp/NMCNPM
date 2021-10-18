@@ -1,0 +1,4 @@
+config: ket noi voi database
+host cuc bo
+inc: include cac phan giong nhau tung trang
+session: luu phien giao dich , khong lam moi trang
